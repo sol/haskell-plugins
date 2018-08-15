@@ -72,7 +72,7 @@ My assumption is that overcoming these limitations will require support from
 the build tool that is used to build and test the Haskell package under
 development.
 
-This sections describes a crude way on how to overcome these limitations in the
+This section describes a crude way on how to overcome these limitations in the
 context of `stack`.
 
 From a users perspective, we want to specify a custom formatter, and we want to
